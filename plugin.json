@@ -1,0 +1,12 @@
+{
+    "ID":"d12e80f8-d916-40c0-a2cc-1bf1f8180632",
+    "ActionKeyword":"rel",
+    "Name":"Release Date Info",
+    "Description":"Finds release status of TV Series and Anime",
+    "Author":"Nils Strelow (@djnilse)",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"Images\\icon.png",
+    "ExecuteFileName":"main.py"
+}
