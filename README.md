@@ -6,4 +6,4 @@ Type in 'rel' + 'name of the show' and you're good to go.
 
 
 ### Attribution ###
-[Icon](Images/app.png) made by Freepik from www.flaticon.com ###
+[Icon](Images/icon.png) made by Freepik from www.flaticon.com ###
