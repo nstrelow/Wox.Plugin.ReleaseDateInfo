@@ -8,8 +8,8 @@ Type in 'rel' + 'name of the show' and you're good to go.
 
 ## Setup
 
-It is required to have a Python 3 installation with the packages [requests](http://docs.python-requests.org/en/master/) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) installed
-Do do this add python to your path and open CMD. Type:
+It is required to have a Python 3 installation with the packages [requests](http://docs.python-requests.org/en/master/) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) installed.
+To do this add python to your path and open CMD. Type:
 ```
 python -m pip install --upgrade requests
 python -m pip install --upgrade bs4
